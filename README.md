@@ -14,6 +14,7 @@ A modular Java application that simulates geometric shapes on a 2D plane. It han
 * **Language:** Java 
 * **IDE:** NetBeans 
 A collection of Object-Oriented Programming projects and laboratory exercises developed as part of my Computer Engineering studies.
+----
 
 ### Company Management System
 
