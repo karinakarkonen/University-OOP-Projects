@@ -14,3 +14,11 @@ A modular Java application that simulates geometric shapes on a 2D plane. It han
 * **Language:** Java 
 * **IDE:** NetBeans 
 A collection of Object-Oriented Programming projects and laboratory exercises developed as part of my Computer Engineering studies.
+
+### Company Management System
+
+A simple company management simulation developed in Java, demonstrating Object-Oriented Programming (OOP) principles and class associations.
+
+* **Key Features:** Manages company hierarchy, employee credentials, project assignments, and internal reporting.
+* **Concepts Used:** Encapsulation (Private fields with Getters & Setters), Object Associations, and Collections (`ArrayList`).
+* **Key Files:** `Company.java` (Main), `CEO.java`, `Employee.java`, `Project.java`, and `Report.java`.
